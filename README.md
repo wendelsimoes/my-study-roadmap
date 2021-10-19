@@ -13,17 +13,14 @@ First roadmap for back-end, the memory management knowledge i see as a important
 
 <br>
 
-+ Need to finish
 ![front-end!](/assets/images/diagrams/roadmap-diagram-front-end.drawio.png)
 
 <br>
 
-+ Need to finish
 ![database!](/assets/images/diagrams/roadmap-diagram-data-base.drawio.png)
 
 <br>
 
-+ Need to finish
 ![testing!](/assets/images/diagrams/roadmap-diagram-testing.drawio.png)
 
 <br>
